@@ -8,7 +8,7 @@ class Student{
 public class main {
     public static void main(String[] args) {
 
-
+        
         Student sana = new Student(); 
         sana.name = "Sana"; 
         sana.Roll = 3012; 
